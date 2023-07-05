@@ -1,0 +1,76 @@
+{
+  "sections": {
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 24,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19711567036695__35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae-16885500787e6acec2-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19711567036695__35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae-16885500787e6acec2-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19711567036695__35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae-16885500787e6acec2-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19711567036695__35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae-16885500787e6acec2-0",
+        "template--19711567036695__35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae-16885500787e6acec2-1",
+        "template--19711567036695__35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae-16885500787e6acec2-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "featured_collection",
+    "35740c27-2fd1-4ebc-aa9c-7de6d3caf3ae"
+  ]
+}
